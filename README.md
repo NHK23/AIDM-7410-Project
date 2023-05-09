@@ -27,10 +27,10 @@ The Quiz component is a web page containing a short quiz about the data journali
 
 The Raw Data component includes all the data, gathered from the information collected by the web scraper.
 
-- [View Raw Data](raw_data) 
+- [View Raw Data](raw data) 
 
 ## Web Scraper 🌐
 
 The Web Scraper component contains code that fetches and organizes data from websites. We use this data for analysis and visualization.
 
-- [View Web Scraper Code](web_scraper) 
+- [View Web Scraper Code](web scraper) 
