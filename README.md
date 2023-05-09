@@ -8,14 +8,14 @@ This project consists of 4 components: **Visualization**, **Quiz**, **Raw Data**
 
 - [Visualization](#visualization)
 - [Quiz](#quiz)
-- [Raw Data](#raw-data)
-- [Web Scraper](#web-scraper)
+- [Raw Data](#raw_data)
+- [Web Scraper](#web_scraper)
 
 ## Visualization 📈
 
 The Visualization component contains code that transforms processed data into charts and graphs, allowing for a better understanding and interpretation of the data.
 
-- [View Visualization Code](Visualization) 
+- [View Visualization Code](visualization) 
 
 ## Quiz 🌐💡
 
@@ -27,10 +27,10 @@ The Quiz component is a web page containing a short quiz about the data journali
 
 The Raw Data component includes all the data, gathered from the information collected by the web scraper.
 
-- [View Raw Data](raw data) 
+- [View Raw Data](raw_data) 
 
 ## Web Scraper 🌐
 
 The Web Scraper component contains code that fetches and organizes data from websites. We use this data for analysis and visualization.
 
-- [View Web Scraper Code](web scraper) 
+- [View Web Scraper Code](web_scraper) 
