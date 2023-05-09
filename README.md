@@ -13,24 +13,24 @@ This project consists of 4 components: **Visualization**, **Quiz**, **Raw Data**
 
 ## Visualization 📈
 
-The Visualization component contains code that transforms raw data into charts and graphs, allowing for a better understanding and interpretation of the data.
+The Visualization component contains code that transforms processed data into charts and graphs, allowing for a better understanding and interpretation of the data.
 
-- [View Visualization Code](visualization.ipynb) (Replace with your visualization file name)
+- [View Visualization Code](visualization) 
 
-## Quiz ❓
+## Quiz 🌐💡
 
-The Quiz component consists of a short quiz about the data journalism topic, designed to test the reader's understanding of the content.
+The Quiz component is a web page containing a short quiz about the data journalism topic, designed to test the reader's understanding of the content before reading.
 
-- [Start the Quiz](quiz.ipynb) (Replace with your quiz file name)
+- [Access the Quiz Web Page](quiz) 
 
 ## Raw Data 📄
 
-The Raw Data component includes all the data used in the project, gathered from the information collected by the web scraper.
+The Raw Data component includes all the data, gathered from the information collected by the web scraper.
 
-- [View Raw Data](raw_data.csv) (Replace with your raw data file name)
+- [View Raw Data](raw_data) 
 
 ## Web Scraper 🌐
 
 The Web Scraper component contains code that fetches and organizes data from websites. We use this data for analysis and visualization.
 
-- [View Web Scraper Code](web_scraper.ipynb) (Replace with your web scraper file name)
+- [View Web Scraper Code](web_scraper) 
