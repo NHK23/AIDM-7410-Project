@@ -15,7 +15,7 @@ This project consists of 4 components: **Visualization**, **Quiz**, **Raw Data**
 
 The Visualization component contains code that transforms processed data into charts and graphs, allowing for a better understanding and interpretation of the data.
 
-- [View Visualization Code](visualization) 
+- [View Visualization Code](Visualization) 
 
 ## Quiz 🌐💡
 
