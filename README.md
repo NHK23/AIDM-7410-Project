@@ -34,3 +34,25 @@ The Raw Data component includes all the data, gathered from the information coll
 The Web Scraper component contains code that fetches and organizes data from websites. We use this data for analysis and visualization.
 
 - [View Web Scraper Code](web_scraper) 
+
+# 📚 Repository Documentation
+
+Welcome to our repository! This documentation will guide you through the necessary steps to ensure a smooth operation of our project.
+
+<p align="center">
+  <img src="your_logo_or_image_link_here" alt="Project Logo"/>
+</p>
+
+## 🎨 File: SourceHanSerif-VF.ttf 
+
+This repository contains a crucial font file: `SourceHanSerif-VF.ttf`. This font file is specifically designed to prevent Chinese character encoding issues in our scripts. 
+
+## 🚀 REMEMBER
+
+To ensure correct operation, please follow these steps:
+
+1. 📥 **Download** both the `SourceHanSerif-VF.ttf` and [visualization.ipynb](visualization.ipynb)  files from this repository.
+2. 📂 **Place** both files in the same directory on your local system.
+3. ▶️ **Run** the `visualization.ipynb` file.
+
+By following these steps, you can avoid any potential issues with Chinese character encoding and ensure the smooth execution of the notebook.
