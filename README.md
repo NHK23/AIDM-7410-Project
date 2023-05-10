@@ -35,14 +35,6 @@ The Web Scraper component contains code that fetches and organizes data from web
 
 - [View Web Scraper Code](web_scraper) 
 
-# 📚 Repository Documentation
-
-Welcome to our repository! This documentation will guide you through the necessary steps to ensure a smooth operation of our project.
-
-<p align="center">
-  <img src="your_logo_or_image_link_here" alt="Project Logo"/>
-</p>
-
 ## 🎨 File: SourceHanSerif-VF.ttf 
 
 This repository contains a crucial font file: `SourceHanSerif-VF.ttf`. This font file is specifically designed to prevent Chinese character encoding issues in our scripts. 
@@ -51,7 +43,7 @@ This repository contains a crucial font file: `SourceHanSerif-VF.ttf`. This font
 
 To ensure correct operation, please follow these steps:
 
-1. 📥 **Download** both the [SourceHanSerif-VF.ttf](SourceHanSerif-VF.ttf) and [Visualization.ipynb](Visualization.ipynb)  files from this repository.
+1. 📥 **Download** both the [SourceHanSerif-VF.ttf](SourceHanSerif-VF.ttf) and [Visualization.ipynb](visualization/Visualization.ipynb)  files from this repository.
 2. 📂 **Place** both files in the same directory on your local system before run.
 
 By following these steps, you can avoid any potential issues with Chinese character encoding and ensure the smooth execution of the notebook.
