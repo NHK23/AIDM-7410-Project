@@ -51,7 +51,7 @@ This repository contains a crucial font file: `SourceHanSerif-VF.ttf`. This font
 
 To ensure correct operation, please follow these steps:
 
-1. 📥 **Download** both the `SourceHanSerif-VF.ttf` and [visualization.ipynb](visualization/visualization.ipynb)  files from this repository.
+1. 📥 **Download** both the [SourceHanSerif-VF.ttf](SourceHanSerif-VF.ttf) and [Visualization.ipynb](Visualization.ipynb)  files from this repository.
 2. 📂 **Place** both files in the same directory on your local system before run.
 
 By following these steps, you can avoid any potential issues with Chinese character encoding and ensure the smooth execution of the notebook.
