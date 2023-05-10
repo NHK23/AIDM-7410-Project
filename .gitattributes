@@ -1,1 +1,3 @@
-SourceHanSerif-VF.ttf filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffa3487f5d591815a86234144bf5b0481118f1dfcb37332e2a0a72601bc576b
+size 96
