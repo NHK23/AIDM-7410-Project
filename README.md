@@ -6,10 +6,10 @@ This project consists of 4 components: **Visualization**, **Quiz**, **Raw Data**
 
 ## Table of Contents
 
-- [Visualization](#visualization)
-- [Web](#web)
-- [Raw Data](#raw_data)
-- [Web Scraper](#web_scraper)
+- [Visualization](visualization)
+- [Web](web)
+- [Raw Data](raw_data)
+- [Web Scraper](web_scraper)
 
 ## Visualization 📈
 
