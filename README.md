@@ -7,7 +7,7 @@ This project consists of 4 components: **Visualization**, **Quiz**, **Raw Data**
 ## Table of Contents
 
 - [Visualization](#visualization)
-- [Quiz](#quiz)
+- [Web](#web)
 - [Raw Data](#raw_data)
 - [Web Scraper](#web_scraper)
 
@@ -17,11 +17,11 @@ The Visualization component contains code that transforms processed data into ch
 
 - [View Visualization Code](visualization) 
 
-## Quiz 🌐💡
+## Web 🌐💡
 
-The Quiz component is a web page containing a short quiz about the data journalism topic, designed to test the reader's understanding of the content before reading.
+The web component contains main.html and quiz.html.
 
-- [Access the Quiz Web Page](quiz) 
+- [Access the our Web Page](web) 
 
 ## Raw Data 📄
 
