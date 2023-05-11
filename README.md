@@ -1,6 +1,6 @@
 # AIDM-7410-Project
 
-# Our group topic is: Dismissed Women in CPR, Dying of Gender Bias!
+Our group topic is: Dismissed Women in CPR, Dying of Gender Bias!
 
 # This is HKBU AIDM 7410 project 📊
 
