@@ -4,8 +4,8 @@ This repository contains the source code and files for our web project, which in
 
 ## Files
 
-- `main/main.html`: The main web page of our project.
-- `quiz/quiz.html`: A quiz page to engage the readers.
+[main](#main/main.html): The main web page of our project.
+[quiz.html](#quiz/quiz.html): A quiz page to engage the readers.
 
 ## Usage
 
