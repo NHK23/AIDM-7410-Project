@@ -1,5 +1,7 @@
 # AIDM-7410-Project
 
+# Our group topic is: Dismissed Women in CPR, Dying of Gender Bias!
+
 # This is HKBU AIDM 7410 project 📊
 
 This project consists of 4 components: **visualization**, **web**, **raw Data**, and **reb Scraper**. Below, you'll find a brief description and links to each section.
