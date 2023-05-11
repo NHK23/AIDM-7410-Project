@@ -142,3 +142,28 @@ footer.text-center {
     text-align: center; 
 }
 
+/* For smaller screens */
+@media screen and (max-width: 768px) {
+    header {
+        position: static;
+        transform: none;
+        text-align: center;
+    }
+    
+    .cpr-title {
+        font-size: 2rem;
+    }
+
+    #quiz-container {
+        max-width: none;
+        padding: 10px;
+    }
+
+    .buttons-container {
+        flex-direction: column;
+    }
+
+    .buttons-container button {
+        margin-bottom: 10px;
+    }
+}
